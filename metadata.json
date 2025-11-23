@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina AI Studio",
+  "description": "A professional-grade image generation suite powered by Gemini. Features precise control over resolution, aspect ratio, and creativity, with optional Google Search grounding for real-time context.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
